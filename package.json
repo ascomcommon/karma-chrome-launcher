@@ -8,16 +8,11 @@
     "pretest": "npm run lint",
     "test": "grunt test"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/karma-runner/karma-chrome-launcher.git"
-  },
   "keywords": [
     "karma-plugin",
     "karma-launcher",
     "chrome"
   ],
-  "author": "Vojta Jina <vojta.jina@gmail.com>",
   "bundleDependencies": [
     "which"
   ],

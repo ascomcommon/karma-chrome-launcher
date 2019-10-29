@@ -1,7 +1,7 @@
 {
-  "name": "karma-chrome-launcher",
-  "version": "3.1.0",
-  "description": "A Karma plugin. Launcher for Chrome and Chrome Canary.",
+  "name": "ascom-karma-chrome-launcher",
+  "version": "3.1.1",
+  "description": "It's fork from https://github.com/karma-runner/karma-chrome-launcher repo. This pack just has bundleDependencies",
   "main": "index.js",
   "scripts": {
     "lint": "standard",
@@ -21,6 +21,7 @@
   "dependencies": {
     "which": "^1.2.1"
   },
+  "bundleDependencies": ["which"]
   "license": "MIT",
   "devDependencies": {
     "chai": "^4.2.0",

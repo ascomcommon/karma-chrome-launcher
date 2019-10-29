@@ -1,6 +1,6 @@
 {
   "name": "ascom-karma-chrome-launcher",
-  "version": "3.1.3",
+  "version": "3.1.5",
   "description": "It's fork from https://github.com/karma-runner/karma-chrome-launcher repo. This pack just has bundleDependencies",
   "main": "index.js",
   "scripts": {
